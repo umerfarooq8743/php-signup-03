@@ -1,0 +1,2 @@
+Database name : dbsignup
+table name : tblinfo
